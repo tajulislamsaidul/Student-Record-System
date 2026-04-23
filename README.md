@@ -130,4 +130,4 @@ implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 
 ## License
 
-This project is open source. Add your preferred license here.
+This project is open source
