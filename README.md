@@ -113,10 +113,3 @@ Typical attributes include:
 * The architecture follows standard Android development practices
 
 ---
-
-## 👨‍💻 Author
-
-**Tajul Islam Saidul**
-GitHub: [https://github.com/tajulislamsaidul](https://github.com/tajulislamsaidul)
-
----
